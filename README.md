@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Lutfi Wirawan</h1>
+<h1 align="left">Hi 👋, I'm Muhammad Lutfi Wirawan</h1>
 <h3 align="center">A passionate GIS & PHP developer Enthusiast</h3>
 
 - 🔭 I’m currently working on **GIS & WebGIS Development**
