@@ -1,13 +1,59 @@
-<h1 align="left">Hi 👋, Saya Muhammad Lutfi Wirawan</h1>
-<h3 align="left">Penggiat GIS yang merambah ke dunia Pengembang Web</h3>
-<p>Saya adalah seorang GIS Analyst yang juga berperan sebagai pengembang web berbasis PHP. Fokus saya berada pada pengembangan WebGIS, otomatisasi pemetaan, serta pemanfaatan teknologi penginderaan jauh untuk mendukung analisis dan pengambilan keputusan.</p>
+<h1 align="left">Muhammad Lutfi Wirawan</h1>
 
-<h3 align="left">Keahlian dan Kompetensi</h3>
-<p>- GIS Analyst: ArcGIS Product, QGIS, AutoCAD MAP, Python, Geopandas</p>
-<p>- Remote Sensing: ENVI, Global Mapper, Agisoft Metashape</p>
-<p>- Web & WebGIS Development: HTML, CSS, JavaScript, Python, PHP</p>
-<p>- Databases: MySQL, PostgreeSQL, PostGIS, GeoServer</p>
-<p>- Framework & Library: Laravel, CodeIgniter, Bootstrap css, Tailwind css, Materialize css, Mapbox, Openlayers, LeafletJS</p>
+<h3 align="left">GIS Analyst | WebGIS Developer</h3>
+
+<p>
+Experienced in geospatial data analysis, WebGIS development, remote sensing,
+and spatial data management. Skilled in building geospatial applications,
+developing spatial databases, and integrating GIS technologies into modern web platforms.
+</p>
+
+<h3 align="left">Technical Skills</h3>
+
+<p>
+<strong>GIS & Spatial Analysis</strong><br>
+ArcGIS Product, QGIS, AutoCAD Map 3D
+</p>
+
+<p>
+<strong>Remote Sensing & Photogrammetry</strong><br>
+ENVI, Global Mapper, Agisoft Metashape
+</p>
+
+<p>
+<strong>Backend Development</strong><br>
+PHP, Laravel, CodeIgniter, REST API Development
+</p>
+
+<p>
+<strong>Frontend Development</strong><br>
+HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Materialize CSS, ReactJS
+</p>
+
+<p>
+<strong>Web Mapping Development</strong><br>
+LeafletJS, OpenLayers, Mapbox GL JS
+</p>
+
+<p>
+<strong>Database Engineering</strong><br>
+PostgreSQL, PostGIS, MySQL
+</p>
+
+<p>
+<strong>Data Engineering & Analytics</strong><br>
+Python, GeoPandas, Spatial ETL, Geospatial Data Processing, Spatial Query, Spatial Index
+</p>
+
+<p>
+<strong>Spatial Data Infrastructure (SDI)</strong><br>
+GeoServer, OGC Services (WMS, WFS, WMTS)
+</p>
+
+<p>
+<strong>DevOps & Deployment</strong><br>
+Basic Linux, Nginx, Apache, Git, Github, Docker
+</p>
 
 
 <div align="left">
@@ -58,4 +104,6 @@
 </div>
 
 <h3 align="left">Mari Berkolaborasi</h3>
-<p align="left">- Email: <a href="mailto:lutfiwirawan01@gmail.com" target="_blank">[lutfiwirawan01@gmail.com]</a>  <br>- LinkedIn: <a href="www.linkedin.com/in/muhammad-lutfi-wirawan-36225a1a7" target="_blank">[Muhammad Lutfi Wirawan]</a></p>
+<p align="left">- Email: <a href="mailto:lutfiwirawan01@gmail.com" target="_blank">[lutfiwirawan01@gmail.com]</a>
+<br> - Email: <a href="mailto:lutfiwirawan01@gmail.com" target="_blank">[lutfiwirawan02@gmail.com]</a>
+<br> - LinkedIn: <a href="www.linkedin.com/in/muhammad-lutfi-wirawan-36225a1a7" target="_blank">[Muhammad Lutfi Wirawan]</a></p>
