@@ -8,6 +8,11 @@ and spatial data management. Skilled in building geospatial applications,
 developing spatial databases, and integrating GIS technologies into modern web platforms.
 </p>
 
+<p align="justify">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lutfiwirawan&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiwirawan&layout=compact&theme=merko"/>
+</p>
+
 <h3 align="left">Technical Skills</h3>
 
 <p>
