@@ -37,12 +37,12 @@ HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Materialize CSS, ReactJS
 
 <p>
 <strong>Web Mapping Development</strong><br>
-LeafletJS, OpenLayers, Mapbox GL JS
+LeafletJS, OpenLayers, MapLibre, Mapbox GL JS
 </p>
 
 <p>
 <strong>Database Engineering</strong><br>
-PostgreSQL, PostGIS, MySQL
+PostgreSQL, PostGIS, MySQL, SQLite
 </p>
 
 <p>
