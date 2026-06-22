@@ -47,17 +47,17 @@ PostgreSQL, PostGIS, MySQL, SQLite
 
 <p>
 <strong>Data Engineering & Analytics</strong><br>
-Python, GeoPandas, Spatial ETL, Geospatial Data Processing, Spatial Query, Spatial Index
+Python, GeoPandas, Spatial ETL/ELT, Geospatial Data Processing, Spatial Query, Spatial Index
 </p>
 
 <p>
 <strong>Spatial Data Infrastructure (SDI)</strong><br>
-GeoServer, OGC Services (WMS, WFS, WMTS)
+GeoServer, OGC Services (WMS, WFS, WMTS), SLD Style
 </p>
 
 <p>
 <strong>DevOps & Deployment</strong><br>
-Basic Linux, Nginx, Apache, Git, Github, Docker
+Basic Linux, SSH, Nginx, Apache, Git, Github, Docker
 </p>
 
 
