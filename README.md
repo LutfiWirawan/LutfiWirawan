@@ -9,7 +9,7 @@ developing spatial databases, and integrating GIS technologies into modern web p
 </p>
 
 <p align="justify">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LutfiWirawan&theme=github-compact" />
+ ![Lifetime stats](https://lutfiwirawan.github.io/statsvg_rs/stats.svg)
 </p>
 
 <h3 align="left">Technical Skills</h3>
