@@ -10,6 +10,8 @@ developing spatial databases, and integrating GIS technologies into modern web p
 
 ![Lifetime stats](https://lutfiwirawan.github.io/statsvg_rs/stats.svg)
 
+![Lifetime stats](https://lutfiwirawan.github.io/statsvg_rs/stats.svg)
+
 <h3 align="left">Technical Skills</h3>
 
 <p>
