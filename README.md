@@ -8,9 +8,7 @@ and spatial data management. Skilled in building geospatial applications,
 developing spatial databases, and integrating GIS technologies into modern web platforms.
 </p>
 
-<p align="justify">
- ![Lifetime stats](https://lutfiwirawan.github.io/statsvg_rs/stats.svg)
-</p>
+![Lifetime stats](https://lutfiwirawan.github.io/statsvg_rs/stats.svg)
 
 <h3 align="left">Technical Skills</h3>
 
