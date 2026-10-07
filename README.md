@@ -10,8 +10,6 @@ developing spatial databases, and integrating GIS technologies into modern web p
 
 ![Stats](https://lutfiwirawan.github.io/statsvg_rs/profile.svg)
 
-![Lifetime stats](https://lutfiwirawan.github.io/statsvg_rs/stats.svg)
-
 <h3 align="left">Technical Skills</h3>
 
 <p>
@@ -111,3 +109,5 @@ Basic Linux, SSH, Nginx, Apache, Git, Github, Docker
 <p align="left">- Email: <a href="mailto:lutfiwirawan01@gmail.com" target="_blank">[lutfiwirawan01@gmail.com]</a>
 <br> - Email: <a href="mailto:lutfiwirawan01@gmail.com" target="_blank">[lutfiwirawan02@gmail.com]</a>
 <br> - LinkedIn: <a href="www.linkedin.com/in/muhammad-lutfi-wirawan-36225a1a7" target="_blank">[Muhammad Lutfi Wirawan]</a></p>
+
+![Lifetime stats](https://lutfiwirawan.github.io/statsvg_rs/stats.svg)
